@@ -30,4 +30,3 @@ Sckit - learn: IA
 
 
 mysql.connector: Banco de Dados Relacional
-A
